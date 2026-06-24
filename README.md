@@ -17,4 +17,4 @@ A responsive Image Gallery built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Author
-Archita
+Aashritha
